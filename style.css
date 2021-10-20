@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@700&display=swap');
+
+body{
+
+    
+    background-color: hsl(273, 75%, 66%);
+    font-size: 12px;
+    
+}
+
+h1{
+
+    text-transform: uppercase;
+    font-family: 'Kumbh Sans', sans-serif;
+    margin-left: 450px;
+    padding-top: 40px;
+
+    
+}
+
+#divisao{
+
+    background-color: white;
+    width: 60%;
+    height: 400px;
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 20px;
+    position: relative;
+    
+}
+
+#divisao #box{
+
+    position: absolute;
+    top: 170px;
+    right: 690px;
+}
+
+#anime{
+
+    margin-bottom: 500px;
+    padding-right: 50px;
+    margin: auto;
+    width: 350px;
+    height: 250px;
+
+}
+
+hr{
+
+    width: 300px;
+    margin-right: 50px;
+    margin-bottom: 500px;
+}
+
+#sombra{
+
+    width: 350px;
+    height: 250px;
+}
+
+#divisao #sombra{
+
+    position: absolute;
+    top: 130px;
+    right: 460px;
+}
+
+#perguntas{
+
+    position: absolute;
+    left: 455px;
+    bottom: 200px;
+    top: 120px;
+}
+
+.duvida{
+
+    font-family: 'Kumbh Sans', sans-serif;
+    color: hsl(240, 6%, 50%);
+    line-height: 40px;
+}
+
+details > p{
+
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
